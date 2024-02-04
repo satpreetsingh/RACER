@@ -1,0 +1,9 @@
+Appended is a transcript of an interview between an interviewer and a healthcare provider. The interviewer asks a fixed set of questions. 
+
+For each question, provide the healthcare provider's response in the structured JSON format as shown in the examples below:
+"How old are you?" { "question": "How old are you?",
+"response": "[numeral response]" }
+"Where do you live?" { "question": "Where do you live?", "response": "[text response for city/state/country]" }
+"What is your marital status?" { "question": "What is your marital status?", "response": "[single/married/divorced/widowed]" }
+
+Transcript:

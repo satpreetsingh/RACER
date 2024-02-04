@@ -1,0 +1,37 @@
+question_number	question	response
+1	How old are you?	[numeric]
+2	Where do you live?	[city/state/country]
+3	What is your marital status?	[single/married/divorced/widowed/etc]
+4	Do you have kids? 	[yes/no]
+5	If you do have kids, provide details	[details]
+6	Are you a caretaker otherwise? (if not own kids, eg elderly parents, adopted family member, etc)	[yes/no]; [details]
+7	What type of healthcare professional (or student) are they? If student or trainee, what year are you in?	[details]
+8	Where did you complete your training? e.g. medical school. If physician, did you train in the US at any point?
+9	What is your specialty (if student, what specialty are you thinking of)?	
+10	How long have you been practicing?	[in years, NA for student]
+11	Over the past two months, have you practiced clinically in areas where you could be in touch with patients who have covid-19?	[yes/no]
+12	Are you concerned about your safety, and how?	[yes/no]; [details]
+13	Are you concerned about safety of loved ones, and how?	[yes/no]; [details]
+14	Have you modified your routine to protect yourself or others, and how?	[yes/no]; [details]
+15	Has this crisis taken a toll on you physically?	
+16	How many hours are you working on average (per week)?	[numeric]
+17	How has your working schedule and logistics changed?	
+18	How does this compare to pre-covid-19 crisis?	
+19	How do think the covid-19 crisis has affected the quality of patient care?	
+20	How has it changed your approach to management? (different from usual, at odds with existing guidelines, may not be as effective, etc.)	
+21	End of life decisions: Are your processes different? Do you have to take people off ventilator more frequently? 	
+22	End of life decisions: How prepared do you feel for this? On a personal level? On a unit/hospital level?	
+23	How do you think this crisis has affected you emotionally?  	[List emotions recognized from interviewee]; [Details]
+24	Do you feel supported by peers/family during this time?	
+25	Have you had more problems with family during this time? If yes, please explain	
+26	Before this crisis, if someone asked you about your burnout level, what would you have answered?
+27	How burned out do you feel nowadays?	
+28	How do you feel about working [from home/at the frontlines]?	[Home/Frontlines/Other]; [Details]
+29	Do you feel you should be able to handle this as a healthcare professional?	
+30	What impact do you see this crisis having on you in the near future?	
+31	What impact do you see this crisis having on you about five years from now?	
+32	Would you seek help if you felt burned out (if yes, how)?	
+33	Would you change jobs?	
+34	Would you get help/care if you felt mentally overwhelmed? How?when?	
+35	Any obstacles you foresee in getting help if you needed to?	
+36	Summarize any other comments provided by the interviewee not covered by the questions above	

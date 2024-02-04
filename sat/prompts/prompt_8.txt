@@ -1,0 +1,51 @@
+Here is a template (tab-separated-values) of an interview (conducted in 2020) between an interviewer and a healthcare professional or medical student. 
+Populate the 'answer' column of the template below using the interview transcript appended after the template. 
+Be sure to note any positive, negative or neutral emotions expressed by the interviewee in the answer.
+If a template question was not asked in the appended transcript (or is not applicable), the answer should be "NA".
+For the last 'evidence' column, provide evidence, by quoting verbatim (except for newlines) the parts of the transcript that were most relevant to answering the question.
+
+question_number	question	answer	evidence
+1	How old are you?	[numeric]
+2	Where do you live?	[city, state, country]
+3	What is your marital status?	[single/married/divorced/widowed/etc]
+4	Do you have kids?	[yes/no]
+5	If you do have kids, provide details	[details]
+6	Are you a caretaker otherwise? (if not own kids, eg elderly parents, adopted family member, etc)	[yes/no; details]
+7	What type of healthcare professional or student/trainee are you?	[details]
+8	If student or trainee, what year are you in?	[year of program]
+9	What institution did you complete your (or are currently) training at?	[name and location of institution]
+10	If you are a physician, did you train in the US at any point?	[yes/no]
+11	What is your specialty (if student, what specialty are you thinking of)?	[details]
+12	How long have you been practicing?	[in years, or NA for student]
+13	Over the past two months, have you practiced clinically in areas where you could be in touch with patients who have covid-19?	[yes/no]
+14	Are you concerned about your safety, and how?	[yes/no; details]
+15	Are you concerned about safety of loved ones, and how?	[yes/no; details]
+16	Have you modified your routine to protect yourself or others, and how?	[yes/no; details]
+17	Has this crisis taken a toll on you physically in any way?	[yes/no; details]
+18	How many hours are you working on average (per week) nowadays?	[numeric]
+19	How has your working schedule and logistics changed?	[details]
+20	How do your working hours compare to pre-covid-19 crisis?	[details]
+21	How do think the covid-19 crisis has affected the quality of patient care?	[details]
+22	How has it changed your approach to management? (different from usual, at odds with existing guidelines, may not be as effective, etc.)	[details]
+23	Are your processes different for end-of-life decisions? Do you have to take people off ventilator more frequently?	[details]
+24	How prepared do you feel for the COVID-19 pandemic on a personal level?	[details]
+25	How prepared do you feel the unit/hospital is for the COVID-19 pandemic?	[details]
+26	How do you think this crisis has affected you emotionally?	[note emotions recognized from interviewee;details]
+27	Do you feel supported by peers and/or family during this time?	[details]
+28	Have you had more problems with family during this time?	[details]
+29	Before this crisis, if someone asked you about your burnout level, what would you have answered?	[score (e.g. 6 out of 10) and/or details]
+30	How burned out do you feel nowadays (during the ongoing COVID crisis)?	[score (e.g. 6 out of 10) and/or details]
+31	How do you feel about working from home OR at the frontlines?	[Home/Frontlines/Other; details]
+32	Do you feel you should be able to handle this as a healthcare professional?	[yes/no; details]
+33	What impact do you see this crisis having on you in the near future?	[details]
+34	What impact do you see this crisis having on you about five years from now?	[details]
+35	Would you seek help if you felt burned out? How?	[yes/no; details]
+36	Would you change jobs or career trajectories?	[yes/no; details]
+37	Has this crisis affected your specialty decision or career plans in any way?	[yes/no; details]
+38	Would you get (professional or other) help/care if you felt mentally overwhelmed? How? When?	[yes/no; details]
+39	Any obstacles you foresee in getting help if you needed to?	[yes/no; details]
+40	If student or trainee, how closely do you feel that you are adhering to the Hippocratic oath during this time?	[closely/not-closely; details]
+41	If student or trainee, do you agree with your school's policies regarding medical students' roles at this time?	[yes/no; details]
+42	What other questions was the subject asked that were not covered in this template?	[list all relevant questions]
+
+TRANSCRIPT:
